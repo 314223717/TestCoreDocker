@@ -1,0 +1,10 @@
+F:\Poject\TestCoreDocker\TestCoreDocker\TestCoreDocker\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Poject\TestCoreDocker\TestCoreDocker\TestCoreDocker\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Poject\TestCoreDocker\TestCoreDocker\TestCoreDocker\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\Poject\TestCoreDocker\TestCoreDocker\TestCoreDocker\bin\Debug\netcoreapp3.1\TestCoreDocker.exe
+F:\Poject\TestCoreDocker\TestCoreDocker\TestCoreDocker\obj\Debug\netcoreapp3.1\TestCoreDocker.csprojAssemblyReference.cache
+F:\Poject\TestCoreDocker\TestCoreDocker\TestCoreDocker\obj\Debug\netcoreapp3.1\TestCoreDocker.AssemblyInfoInputs.cache
+F:\Poject\TestCoreDocker\TestCoreDocker\TestCoreDocker\obj\Debug\netcoreapp3.1\TestCoreDocker.AssemblyInfo.cs
+F:\Poject\TestCoreDocker\TestCoreDocker\TestCoreDocker\obj\Debug\netcoreapp3.1\TestCoreDocker.RazorTargetAssemblyInfo.cache
+F:\Poject\TestCoreDocker\TestCoreDocker\TestCoreDocker\obj\Debug\netcoreapp3.1\staticwebassets\TestCoreDocker.StaticWebAssets.Manifest.cache
+F:\Poject\TestCoreDocker\TestCoreDocker\TestCoreDocker\obj\Debug\netcoreapp3.1\staticwebassets\TestCoreDocker.StaticWebAssets.xml

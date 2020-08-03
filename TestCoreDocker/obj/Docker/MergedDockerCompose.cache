@@ -1,0 +1,11 @@
+services:
+  testcoredocker:
+    build:
+      context: F:\Poject\TestCoreDocker\TestCoreDocker
+      dockerfile: TestCoreDocker\Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: testcoredocker
+    ports:
+    - target: 80
+version: '3.4'
